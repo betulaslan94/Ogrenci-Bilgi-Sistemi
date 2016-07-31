@@ -1,0 +1,16 @@
+System.Exception: Veritabanı işlem hatası ---> System.Data.SqlClient.SqlException: Procedure or function ogrekle has too many arguments specified.
+   konum: System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   konum: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   konum: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   konum: System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   konum: System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   konum: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   konum: VeriErisimKatmanı.komut.Islet() C:\Users\Samsung\Desktop\OBS-1\VeriErisimKatmanı\komut.cs içinde: satır 128
+   --- İç özel durum yığını izlemesinin sonu ---
+   konum: VeriErisimKatmanı.komut.Islet() C:\Users\Samsung\Desktop\OBS-1\VeriErisimKatmanı\komut.cs içinde: satır 133
+   konum: VeriErisimKatmanı.ogrenci.ogrKaydet(ogrenci ogremci) C:\Users\Samsung\Desktop\OBS-1\VeriErisimKatmanı\ogrenci.cs içinde: satır 40
+   konum: IsKatmanı.ogrenci.OgrEkle(ogrenci ogrenci) C:\Users\Samsung\Desktop\OBS-1\IsKatmanı\ogrenci.cs içinde: satır 24
+   konum: OBS_1.Form4.button1_Click(Object sender, EventArgs e) C:\Users\Samsung\Desktop\OBS-1\OBS-1\Form4.cs içinde: satır 81

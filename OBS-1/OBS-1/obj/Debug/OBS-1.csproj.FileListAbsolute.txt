@@ -1,0 +1,94 @@
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\bin\Debug\OBS-1.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\bin\Debug\OBS-1.exe
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\bin\Debug\OBS-1.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS-1.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Form1.resources
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Form2.resources
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS-1.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS-1.exe
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS-1.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Form3.resources
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Form4.resources
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Form5.resources
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Form6.resources
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Form7.resources
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Form8.resources
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Form9.resources
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Form10.resources
+c:\users\samsung\documents\visual studio 2015\Projects\OBS-1\OBS-1\obj\Debug\OBS_1.Form11.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\bin\Debug\OBS-1.exe.config
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS-1.exe
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS-1.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\bin\Debug\OBS-1.exe
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\bin\Debug\OBS-1.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\bin\Debug\IsKatmanı.dll
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\bin\Debug\Varlıklar.dll
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\bin\Debug\VeriErisimKatmanı.dll
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\bin\Debug\IsKatmanı.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\bin\Debug\Varlıklar.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\bin\Debug\VeriErisimKatmanı.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS-1.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Form1.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Form10.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Form11.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Form2.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Form3.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Form4.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Form5.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Form6.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Form7.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Form8.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Form9.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS_1.Properties.Resources.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\obj\Debug\OBS-1.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\OBS-1.exe.config
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS-1.exe
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS-1.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\OBS-1.exe
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\OBS-1.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\IsKatmanı.dll
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\Varlıklar.dll
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\VeriErisimKatmanı.dll
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\IsKatmanı.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\Varlıklar.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\VeriErisimKatmanı.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS-1.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form1.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form10.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form11.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form2.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form3.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form4.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form5.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form6.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form7.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form8.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form9.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Properties.Resources.resources
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS-1.csproj.GenerateResource.Cache
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\OBS-1.exe.config
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS-1.exe
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS-1.pdb
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\OBS-1.exe
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\OBS-1.pdb
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\IsKatmanı.dll
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\Varlıklar.dll
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\VeriErisimKatmanı.dll
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\IsKatmanı.pdb
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\Varlıklar.pdb
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\bin\Debug\VeriErisimKatmanı.pdb
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS-1.csprojResolveAssemblyReference.cache
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form1.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form10.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form11.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form2.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form3.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form4.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form5.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form6.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form7.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form8.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form9.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Properties.Resources.resources
+C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS-1.csproj.GenerateResource.Cache

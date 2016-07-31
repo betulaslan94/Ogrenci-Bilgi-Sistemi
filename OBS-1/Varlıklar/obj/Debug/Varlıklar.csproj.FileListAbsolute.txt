@@ -1,0 +1,15 @@
+C:\Users\Samsung\Desktop\OBS-1\Varlıklar\bin\Debug\Varlıklar.dll
+C:\Users\Samsung\Desktop\OBS-1\Varlıklar\bin\Debug\Varlıklar.pdb
+C:\Users\Samsung\Desktop\OBS-1\Varlıklar\obj\Debug\Varlıklar.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\OBS-1\Varlıklar\obj\Debug\Varlıklar.dll
+C:\Users\Samsung\Desktop\OBS-1\Varlıklar\obj\Debug\Varlıklar.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\Varlıklar\bin\Debug\Varlıklar.dll
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\Varlıklar\bin\Debug\Varlıklar.pdb
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\Varlıklar\obj\Debug\Varlıklar.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\Varlıklar\obj\Debug\Varlıklar.dll
+C:\Users\Samsung\Desktop\OBS-1\OBS-1\Varlıklar\obj\Debug\Varlıklar.pdb
+C:\Users\betul\Desktop\OBS-1\OBS-1\Varlıklar\bin\Debug\Varlıklar.dll
+C:\Users\betul\Desktop\OBS-1\OBS-1\Varlıklar\bin\Debug\Varlıklar.pdb
+C:\Users\betul\Desktop\OBS-1\OBS-1\Varlıklar\obj\Debug\Varlıklar.csprojResolveAssemblyReference.cache
+C:\Users\betul\Desktop\OBS-1\OBS-1\Varlıklar\obj\Debug\Varlıklar.dll
+C:\Users\betul\Desktop\OBS-1\OBS-1\Varlıklar\obj\Debug\Varlıklar.pdb
