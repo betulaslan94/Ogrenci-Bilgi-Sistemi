@@ -92,3 +92,6 @@ C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form8.resources
 C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Form9.resources
 C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS_1.Properties.Resources.resources
 C:\Users\betul\Desktop\OBS-1\OBS-1\OBS-1\obj\Debug\OBS-1.csproj.GenerateResource.Cache
+C:\Users\betul\OneDrive\Belgeler\GitHub\Ogrenci-Bilgi-Sistemi\OBS-1\OBS-1\bin\Debug\OBS-1.exe.config
+C:\Users\betul\OneDrive\Belgeler\GitHub\Ogrenci-Bilgi-Sistemi\OBS-1\OBS-1\obj\Debug\OBS-1.exe
+C:\Users\betul\OneDrive\Belgeler\GitHub\Ogrenci-Bilgi-Sistemi\OBS-1\OBS-1\obj\Debug\OBS-1.pdb
